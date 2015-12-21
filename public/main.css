@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: skyblue;
+  font-family: Helvetica, sans-serif;
+}
+
+.btn-login {
+  width: 100px;
+  height: 50px;
+  border: 0;
+  background-color: white;
+}
+
+.a0-custom:before {
+  content: 'd';
+}
+
+.hidden {
+  display: none;
+}
